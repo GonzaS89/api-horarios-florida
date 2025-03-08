@@ -6591,7 +6591,8 @@
         }
     ],
     "domingos": {
-        "idas florida/alderetes-alternativa":[
+        
+        "idas_florida/alderetes-alternativa":[
             {
                 "nombre": "07:40",
                 "valor_salida": 7.4,
@@ -6725,7 +6726,7 @@
                 ]
             }
         ],
-        "vueltas florida/alderetes-alternativa":[
+        "vueltas_florida/alderetes-alternativa":[
             {
                 "nombre": "06:40",
                 "valor_salida": 6.40,
@@ -6880,7 +6881,7 @@
                 ]
             }
         ],
-        "idas florida/posse":[
+        "idas_florida/posse":[
         {
             "nombre": "04:50",
             "valor_salida": 4.5,
@@ -7167,7 +7168,7 @@
             ]
         }
         ],
-        "vueltas florida/posse":[
+        "vueltas_florida/posse":[
             {
                 "nombre": "06:00",
                 "valor_salida": 6,
@@ -7490,7 +7491,7 @@
                 ]
             }
         ],
-        "idas posse":[
+        "idas_posse":[
             {
                 "nombre": "06:08",
                 "valor_salida": 6.08,
@@ -7552,7 +7553,7 @@
                 ]
             }
         ],
-        "vueltas posse":[
+        "vueltas_posse":[
             {
                 "nombre": "20:20",
                 "valor_salida": 20.2,
@@ -7578,7 +7579,7 @@
                 ]
             }
         ],
-        "idas ralos":[
+        "idas_ralos":[
             {
                 "nombre": "05:00",
                 "valor_salida": 5,
@@ -7818,7 +7819,7 @@
                 ]
             }
         ],
-        "vueltas ralos":[
+        "vueltas_ralos":[
             {
                 "nombre": "06.00",
                 "valor_salida": 6,
@@ -8056,7 +8057,7 @@
                 ]
             }
         ],
-        "vueltas cruz alta/ralos":[
+        "vueltas_cruz alta/ralos":[
             {
                 "nombre": "20:00",
                 "valor_salida": 20,
@@ -8070,7 +8071,7 @@
                 ]
             }
         ],
-        "idas las cejas":[
+        "idas_las_cejas":[
             {
                 "nombre": "07:55",
                 "valor_salida": 7.55,
@@ -8120,7 +8121,7 @@
                 ]
             }
         ],
-        "vueltas las cejas":[
+        "vueltas_las_cejas":[
             {
                 "nombre": "06:30",
                 "valor_salida": 6.3,
