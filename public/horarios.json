@@ -4126,7 +4126,8 @@
                 "colonia 10 (luisiana)",
                 "colonia 4 (florida)",
                 "plaza mayo",
-                "la marta"
+                "la marta",
+                "no esta"
             ]
         },
         {
@@ -4153,7 +4154,6 @@
                 "alderetes",
                 "el talar",
                 "la florida",
-                "fonda",
                 "colonia 4 (luisiana)"
             ]
         },
@@ -4167,7 +4167,6 @@
                 "autopista",
                 "alderetes",
                 "cochuchal",
-                "fonda",
                 "colonia 4 (luisiana)"
             ]
         },
@@ -4195,7 +4194,7 @@
                 "autopista",
                 "el talar",
                 "la florida",
-                "colonia 4 (luisiana)"
+                "colonia 4 (luisiana)","no esta"
             ]
         },
         {
@@ -4256,35 +4255,6 @@
             ]
         },
         {
-            "nombre": "12:45",
-            "valor_salida": 12.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "banda del río salí",
-                "alderetes",
-                "el talar",
-                "la florida",
-                "esquina lastra",
-                "fortín",
-                "colonia 3 (florida)"
-            ]
-        },
-        {
-            "nombre": "12:45",
-            "valor_salida": 12.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "catalinas park",
-                "alternativa",
-                "el talar",
-                "la florida",
-                "b° la cancha",
-                "colonia 4 (luisiana)"
-            ]
-        },
-        {
             "nombre": "13:15",
             "valor_salida": 13.15,
             "referencia": "vueltas florida/alderetes-alternativa",
@@ -4294,7 +4264,7 @@
                 "alderetes",
                 "cochuchal",
                 "b° la cancha",
-                "colonia 4 (luisiana)"
+                "colonia 4 (luisiana)","no esta"
             ]
         },
         {
@@ -4308,23 +4278,8 @@
                 "el talar",
                 "la florida",
                 "b° la cancha",
-                "colonia 4 (luisiana)"
-            ]
-        },
-        {
-            "nombre": "13:30",
-            "valor_salida": 13.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "catalinas park",
-                "autopista",
-                "el talar",
-                "la florida",
-                "b° la cancha",
                 "colonia 4 (luisiana)",
-                "finca mayo",
-                "la marta"
+                "finca mayo"
             ]
         },
         {
@@ -4357,20 +4312,6 @@
             ]
         },
         {
-            "nombre": "14:50",
-            "valor_salida": 14.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "comisaria 11",
-                "alternativa",
-                "el talar",
-                "la florida",
-                "esquina lastra",
-                "fortín"
-            ]
-        },
-        {
             "nombre": "16:00",
             "valor_salida": 16,
             "referencia": "vueltas florida/alderetes-alternativa",
@@ -4394,22 +4335,9 @@
                 "banda del río salí",
                 "alderetes",
                 "cochuchal",
+                "colonia 4 (luisiana)",
                 "esquina lastra",
                 "fortín"
-            ]
-        },
-        {
-            "nombre": "17:40",
-            "valor_salida": 17.4,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "comisaria 11",
-                "alternativa",
-                "el talar",
-                "la florida",
-                "b° la cancha",
-                "colonia 4 (luisiana)"
             ]
         },
         {
@@ -4428,17 +4356,18 @@
             ]
         },
         {
-            "nombre": "18:30",
-            "valor_salida": 18.3,
+            "nombre": "18:00",
+            "valor_salida": 18,
             "referencia": "vueltas florida/alderetes-alternativa",
             "recorrido": [
                 "s. m. de tucumán",
-                "comisaria 11",
-                "alternativa",
+                "banda del río salí",
+                "alderetes",
                 "el talar",
                 "la florida",
-                "b° la cancha",
-                "colonia 4 (luisiana)"
+                "esquina lastra",
+                "fortín",
+                "colonia 4 (florida)"
             ]
         },
         {
@@ -4451,20 +4380,6 @@
                 "alderetes",
                 "el talar",
                 "la florida",
-                "colonia 4 (luisiana)"
-            ]
-        },
-        {
-            "nombre": "19:45",
-            "valor_salida": 19.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
-            "recorrido": [
-                "s. m. de tucumán",
-                "comisaria 11",
-                "alternativa",
-                "el talar",
-                "la florida",
-                "b° la cancha",
                 "colonia 4 (luisiana)"
             ]
         },
@@ -4508,6 +4423,7 @@
                 "alderetes",
                 "el talar",
                 "la florida",
+                "b° la cancha",
                 "colonia 4 (luisiana)"
             ]
         },
