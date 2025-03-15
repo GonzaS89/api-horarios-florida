@@ -3839,6 +3839,7 @@
             "referencia": "idas florida/alderetes-alternativa",
             "recorrido": [
                 "colonia 10 (luisiana)",
+                "colonia 4 (luisiana)",
                 "b° la cancha",
                 "cochuchal",
                 "alderetes",
@@ -3927,6 +3928,7 @@
                 "alderetes",
                 "banda del río salí",
                 "s. m. de tucumán"
+            
             ]
         },
         {
@@ -3984,6 +3986,7 @@
                 "alderetes",
                 "banda del río salí",
                 "s. m. de tucumán"
+                
             ]
         },
         {
@@ -5391,19 +5394,19 @@
                 "bosque",
                 "w. posse","fila del medio",
                 "colonia media agua","cevil pozo","banda del río salí",
-                "s. m. de tucumán"
+                "s. m. de tucumán","no esta"
             ]
         },
         {
-            "nombre": "08:05",
-            "valor_salida": 8.05,
+            "nombre": "08:10",
+            "valor_salida": 8.10,
             "referencia": "idas posse",
             "recorrido": [
                 "dispensario",
                 "w. posse","fila de la orilla",
                 "esquina llona",
                 "colonia media agua","cevil pozo","banda del río salí",
-                "s. m. de tucumán"
+                "s. m. de tucumán","no esta"
             ]
         },
         {
@@ -5418,8 +5421,8 @@
             ]
         },
         {
-            "nombre": "09:10",
-            "valor_salida": 9.1,
+            "nombre": "10:10",
+            "valor_salida": 10.1,
             "referencia": "idas posse",
             "recorrido": [
                 "dispensario",
@@ -5448,7 +5451,7 @@
                 "w. posse","fila de la orilla",
                 "esquina llona",
                 "colonia media agua","cevil pozo","banda del río salí",
-                "s. m. de tucumán"
+                "s. m. de tucumán","no esta"
             ]
         },
         {
