@@ -53,6 +53,7 @@
                 "colonia 10 (luisiana)",
                 "colonia 4 (luisiana)",
                 "b° la cancha",
+                "la florida",
                 "cochuchal",
                 "alderetes",
                 "autopista",
@@ -192,7 +193,6 @@
                 "la florida",
                 "el talar",
                 "alternativa",
-                
                 "s. m. de tucumán"
             ]
         },
@@ -538,6 +538,7 @@
                 "autopista",
                 "alderetes",
                 "cochuchal",
+                "la florida",
                 "fonda",
                 "colonia 4 (luisiana)"
             ]
@@ -622,6 +623,7 @@
                 "banda del río salí",
                 "alderetes",
                 "el talar",
+                "la florida",
                 "esquina lastra",
                 "finca mayo"
             ]
@@ -678,6 +680,7 @@
                 "banda del río salí",
                 "alderetes",
                 "cochuchal",
+                "la florida",
                 "b° la cancha",
                 "colonia 4 (luisiana)"
             ]
@@ -3844,6 +3847,7 @@
                 "colonia 10 (luisiana)",
                 "colonia 4 (luisiana)",
                 "b° la cancha",
+                "la florida",
                 "cochuchal",
                 "alderetes",
                 "autopista",
@@ -4127,6 +4131,7 @@
                 "s. m. de tucumán",
                 "catalinas park",
                 "alternativa",
+                "la florida",
                 "fonda",
                 "colonia 4 (luisiana)",
                 "colonia 10 (luisiana)",
@@ -4172,6 +4177,7 @@
                 "autopista",
                 "alderetes",
                 "cochuchal",
+                "la florida",
                 "colonia 4 (luisiana)"
             ]
         },
@@ -4241,6 +4247,7 @@
                 "banda del río salí",
                 "alderetes",
                 "cochuchal",
+                "la florida",
                 "esquina lastra",
                 "finca mayo"
             ]
@@ -4268,7 +4275,7 @@
                 "banda del río salí",
                 "alderetes",
                 "cochuchal",
-
+                "la florida",
                 "b° la cancha",
                 "colonia 4 (luisiana)"
             ]
@@ -4341,6 +4348,7 @@
                 "banda del río salí",
                 "alderetes",
                 "cochuchal",
+                "la florida",
                 "colonia 4 (luisiana)",
                 "esquina lastra",
                 "fortín"
@@ -4701,7 +4709,6 @@
             "recorrido": [
                 "esquina lastra",
                 "la florida",
-                
                 "el paraíso",
                 "w. posse",
                 "esquina llona",
