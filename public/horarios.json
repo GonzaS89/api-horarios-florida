@@ -6753,19 +6753,7 @@
                         "colonia 4 (florida)"
                     ]
                 },
-                {
-                    "nombre": "16:50",
-                    "valor_salida": 16.5,
-                    "referencia": "vueltas florida/alderetes-alternativa",
-                    "recorrido": [
-                        "s. m. de tucumán",
-                        "banda del río salí",
-                        "alderetes",
-                        "el talar",
-                        "la florida",
-                        "b° la cancha"
-                    ]
-                },
+
                 {
                     "nombre": "17:45",
                     "valor_salida": 17.45,
@@ -7855,19 +7843,6 @@
                 {
                     "nombre": "13:00",
                     "valor_salida": 13,
-                    "referencia": "vueltas ralos",
-                    "recorrido": [
-                        "s. m. de tucumán",
-                        "banda del río salí",
-                        "cevil pozo","colonia media agua",
-                        "esquina llona",
-                        "los ralos",
-                        "villa tercera"
-                    ]
-                },
-                {
-                    "nombre": "14:30",
-                    "valor_salida": 14.3,
                     "referencia": "vueltas ralos",
                     "recorrido": [
                         "s. m. de tucumán",
