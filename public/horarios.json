@@ -3431,7 +3431,7 @@
         {
             "nombre": "05:20",
             "valor_salida": 5.2,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -3443,7 +3443,7 @@
         {
             "nombre": "06:05",
             "valor_salida": 6.05,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "san nicolas",
                 "colonia 9",
@@ -3457,7 +3457,7 @@
         {
             "nombre": "08:10",
             "valor_salida": 8.1,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -3469,7 +3469,7 @@
         {
             "nombre": "12:10",
             "valor_salida": 12.1,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -3481,7 +3481,7 @@
         {
             "nombre": "14:15",
             "valor_salida": 12.1,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "correo",
                 "los ralos",
@@ -3494,7 +3494,7 @@
         {
             "nombre": "18:30",
             "valor_salida": 18.3,
-            "referencia": "idas cruz alta/los ralos",
+            "referencia": "idas cruz alta",
             "recorrido": [
                 "colonia 9",
                 "los ralos",
@@ -3507,7 +3507,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3520,7 +3520,7 @@
         {
             "nombre": "10:45",
             "valor_salida": 10.45,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3533,7 +3533,7 @@
         {
             "nombre": "12:00",
             "valor_salida": 12,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3546,7 +3546,7 @@
         {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3559,7 +3559,7 @@
         {
             "nombre": "17:30",
             "valor_salida": 17.3,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3572,7 +3572,7 @@
         {
             "nombre": "20:00",
             "valor_salida": 20,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -6307,7 +6307,7 @@
         {
             "nombre": "05:30",
             "valor_salida": 5.3,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -6320,7 +6320,7 @@
         {
             "nombre": "07:15",
             "valor_salida": 7.15,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -6332,7 +6332,7 @@
         {
             "nombre": "11:50",
             "valor_salida": 11.5,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -6344,7 +6344,7 @@
         {
             "nombre": "14:15",
             "valor_salida": 14.15,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "los ralos",
                 "cruz alta",
@@ -6356,7 +6356,7 @@
         {
             "nombre": "10:45",
             "valor_salida": 10.45,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -6369,7 +6369,7 @@
         {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -6382,7 +6382,7 @@
         {
             "nombre": "19:30",
             "valor_salida": 19.30,
-            "referencia": "vueltas cruz alta/los ralos",
+            "referencia": "vueltas cruz alta",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -7975,7 +7975,7 @@
                 {
                     "nombre": "20:00",
                     "valor_salida": 20,
-                    "referencia": "vueltas cruz alta/los ralos",
+                    "referencia": "vueltas cruz alta",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
