@@ -3623,7 +3623,7 @@
         {
             "nombre": "06:15",
             "valor_salida": 6.15,
-            "referencia": "vueltas 7 DE abril",
+            "referencia": "vueltas 7 de abril",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3636,7 +3636,7 @@
         {
             "nombre": "12:30",
             "valor_salida": 12.30,
-            "referencia": "vueltas 7 DE abril",
+            "referencia": "vueltas 7 de abril",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3649,7 +3649,7 @@
         {
             "nombre": "15:45",
             "valor_salida": 15.45,
-            "referencia": "vueltas 7 DE abril",
+            "referencia": "vueltas 7 de abril",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -6395,7 +6395,7 @@
         {
             "nombre": "06:00",
             "valor_salida": 6,
-            "referencia": "idas 7 DE abril",
+            "referencia": "idas 7 de abril",
             "recorrido": [
                 "7 de abril",
                 "las cejas",
