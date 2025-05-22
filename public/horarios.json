@@ -3,7 +3,7 @@
         {
             "nombre": "04:40",
             "valor_salida": 4.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -19,7 +19,7 @@
         {
             "nombre": "05:35",
             "valor_salida": 5.35,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -34,7 +34,7 @@
         {
             "nombre": "06:10",
             "valor_salida": 6.10,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -48,7 +48,7 @@
         {
             "nombre": "06:10",
             "valor_salida": 6.1,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 10 (luisiana)",
                 "colonia 4 (luisiana)",
@@ -63,7 +63,7 @@
         {
             "nombre": "06:20",
             "valor_salida": 6.2,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "colonia 4 (luisiana)",
@@ -78,7 +78,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -91,7 +91,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -103,7 +103,7 @@
         {
             "nombre": "07:20",
             "valor_salida": 7.2,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -117,7 +117,7 @@
         {
             "nombre": "07:20",
             "valor_salida": 7.2,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -130,7 +130,7 @@
         {
             "nombre": "07:40",
             "valor_salida": 7.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "finca mayo",
                 "fortín",
@@ -145,7 +145,7 @@
         {
             "nombre": "07:50",
             "valor_salida": 7.50,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "fonda",
@@ -158,7 +158,7 @@
         {
             "nombre": "07:50",
             "valor_salida": 7.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -172,7 +172,7 @@
         {
             "nombre": "08:45",
             "valor_salida": 8.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -186,7 +186,7 @@
         {
             "nombre": "08:45",
             "valor_salida": 8.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -199,7 +199,7 @@
         {
             "nombre": "09:55",
             "valor_salida": 9.55,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -213,7 +213,7 @@
         {
             "nombre": "10:40",
             "valor_salida": 10.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -227,7 +227,7 @@
         {
             "nombre": "11:40",
             "valor_salida": 11.40,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -241,7 +241,7 @@
         {
             "nombre": "12:30",
             "valor_salida": 12.3,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -255,7 +255,7 @@
         {
             "nombre": "12:35",
             "valor_salida": 12.35,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -267,7 +267,7 @@
         {
             "nombre": "12:50",
             "valor_salida": 12.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -281,7 +281,7 @@
          {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -294,7 +294,7 @@
         {
             "nombre": "13:50",
             "valor_salida": 13.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -307,7 +307,7 @@
         {
             "nombre": "14:45",
             "valor_salida": 14.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -320,7 +320,7 @@
         {
             "nombre": "14:50",
             "valor_salida": 14.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -334,7 +334,7 @@
         {
             "nombre": "15:40",
             "valor_salida": 15.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -346,7 +346,7 @@
         {
             "nombre": "15:47",
             "valor_salida": 15.47,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -359,7 +359,7 @@
         {
             "nombre": "15:50",
             "valor_salida": 15.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -373,7 +373,7 @@
         {
             "nombre": "16:40",
             "valor_salida": 16.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -387,7 +387,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (florida)",
                 "fortín",
@@ -402,7 +402,7 @@
         {
             "nombre": "16:45",
             "valor_salida": 16.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -415,7 +415,7 @@
         {
             "nombre": "17:35",
             "valor_salida": 17.35,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -428,7 +428,7 @@
         {
             "nombre": "17:50",
             "valor_salida": 17.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "fortín",
@@ -443,7 +443,7 @@
         {
             "nombre": "18:30",
             "valor_salida": 18.3,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -457,7 +457,7 @@
         {
             "nombre": "19:00",
             "valor_salida": 19,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "la marta",
                 "colonia 3 (luisiana)",
@@ -472,7 +472,7 @@
         {
             "nombre": "20:55",
             "valor_salida": 20.55,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "finca mayo",
                 "colonia 4 (luisiana)",
@@ -487,7 +487,7 @@
         {
             "nombre": "05:25",
             "valor_salida": 5.25,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -501,7 +501,7 @@
         {
             "nombre": "06:25",
             "valor_salida": 6.25,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -516,7 +516,7 @@
         {
             "nombre": "07:15",
             "valor_salida": 7.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -533,7 +533,7 @@
         {
             "nombre": "08:00",
             "valor_salida": 8,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -548,7 +548,7 @@
         {
             "nombre": "08:35",
             "valor_salida": 8.35,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -561,7 +561,7 @@
         {
             "nombre": "09:00",
             "valor_salida": 9,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -575,7 +575,7 @@
         {
             "nombre": "09:45",
             "valor_salida": 9.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -589,7 +589,7 @@
         {
             "nombre": "10:45",
             "valor_salida": 10.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -604,7 +604,7 @@
         {
             "nombre": "11:15",
             "valor_salida": 11.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -619,7 +619,7 @@
         {
             "nombre": "11:40",
             "valor_salida": 11.4,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -633,7 +633,7 @@
         {
             "nombre": "12:15",
             "valor_salida": 12.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -648,7 +648,7 @@
         {
             "nombre": "12:45",
             "valor_salida": 12.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -663,7 +663,7 @@
         {
             "nombre": "12:45",
             "valor_salida": 12.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -678,7 +678,7 @@
         {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -694,7 +694,7 @@
         {
             "nombre": "13:30",
             "valor_salida": 13.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -713,7 +713,7 @@
         {
             "nombre": "13:30",
             "valor_salida": 13.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -730,7 +730,7 @@
         {
             "nombre": "14:00",
             "valor_salida": 14,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -747,7 +747,7 @@
         {
             "nombre": "14:50",
             "valor_salida": 14.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -760,7 +760,7 @@
         {
             "nombre": "15:50",
             "valor_salida": 15.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -775,7 +775,7 @@
         {
             "nombre": "15:50",
             "valor_salida": 15.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -790,7 +790,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -803,7 +803,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -817,7 +817,7 @@
         {
             "nombre": "17:45",
             "valor_salida": 17.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -833,7 +833,7 @@
         {
             "nombre": "18:30",
             "valor_salida": 18.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -849,7 +849,7 @@
         {
             "nombre": "19:00",
             "valor_salida": 19,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -862,7 +862,7 @@
         {
             "nombre": "19:45",
             "valor_salida": 19.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -877,7 +877,7 @@
         {
             "nombre": "20:30",
             "valor_salida": 20.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -891,7 +891,7 @@
         {
             "nombre": "21:00",
             "valor_salida": 21,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -905,7 +905,7 @@
         {
             "nombre": "21:30",
             "valor_salida": 21.30,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -921,7 +921,7 @@
         {
             "nombre": "22:00",
             "valor_salida": 22,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -936,7 +936,7 @@
         {
             "nombre": "22:30",
             "valor_salida": 22.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -953,7 +953,7 @@
         {
             "nombre": "23:30",
             "valor_salida": 23.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -1308,7 +1308,7 @@
         {
             "nombre": "04:50",
             "valor_salida": 4.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1322,7 +1322,7 @@
         {
             "nombre": "05:50",
             "valor_salida": 5.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1336,7 +1336,7 @@
         {
             "nombre": "06:20",
             "valor_salida": 6.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1350,7 +1350,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1364,7 +1364,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 
@@ -1379,7 +1379,7 @@
         {
             "nombre": "07:20",
             "valor_salida": 7.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1393,7 +1393,7 @@
         {
             "nombre": "07:55",
             "valor_salida": 7.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1408,7 +1408,7 @@
         {
             "nombre": "08:20",
             "valor_salida": 8.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1422,7 +1422,7 @@
         {
             "nombre": "09:10",
             "valor_salida": 9.1,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1436,7 +1436,7 @@
         {
             "nombre": "09:50",
             "valor_salida": 9.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1450,7 +1450,7 @@
          {
             "nombre": "10:20",
             "valor_salida": 10.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1464,7 +1464,7 @@
         {
             "nombre": "10:50",
             "valor_salida": 10.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1478,7 +1478,7 @@
         {
             "nombre": "11:20",
             "valor_salida": 11.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1492,7 +1492,7 @@
         {
             "nombre": "11:50",
             "valor_salida": 11.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1506,7 +1506,7 @@
         {
             "nombre": "12:40",
             "valor_salida": 12.40,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1520,7 +1520,7 @@
         {
             "nombre": "13:25",
             "valor_salida": 13.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1536,7 +1536,7 @@
         {
             "nombre": "13:50",
             "valor_salida": 13.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1550,7 +1550,7 @@
         {
             "nombre": "14:50",
             "valor_salida": 14.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1564,7 +1564,7 @@
         {
             "nombre": "15:55",
             "valor_salida": 15.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1579,7 +1579,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1593,7 +1593,7 @@
         {
             "nombre": "17:50",
             "valor_salida": 17.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1608,7 +1608,7 @@
         {
             "nombre": "17:50",
             "valor_salida": 17.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "colegio croacia",
                 "la florida",
@@ -1622,7 +1622,7 @@
         {
             "nombre": "18:50",
             "valor_salida": 18.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1637,7 +1637,7 @@
         {
             "nombre": "19:30",
             "valor_salida": 19.3,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -1652,7 +1652,7 @@
         {
             "nombre": "19:55",
             "valor_salida": 19.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -1667,7 +1667,7 @@
         {
             "nombre": "20:20",
             "valor_salida": 20.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1681,7 +1681,7 @@
         {
             "nombre": "20:50",
             "valor_salida": 20.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1695,7 +1695,7 @@
         {
             "nombre": "21:20",
             "valor_salida": 21.2,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1709,7 +1709,7 @@
         {
             "nombre": "22:20",
             "valor_salida": 22.20,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1723,7 +1723,7 @@
         {
             "nombre": "23:20",
             "valor_salida": 23.20,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -1738,7 +1738,7 @@
         {
             "nombre": "00:30",
             "valor_salida": 0.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1753,7 +1753,7 @@
         {
             "nombre": "06:00",
             "valor_salida": 6,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1769,7 +1769,7 @@
         {
             "nombre": "06:30",
             "valor_salida": 6.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1784,7 +1784,7 @@
         {
             "nombre": "07:00",
             "valor_salida": 7,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1800,7 +1800,7 @@
         {
             "nombre": "07:30",
             "valor_salida": 7.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1815,7 +1815,7 @@
         {
             "nombre": "08:15",
             "valor_salida": 8.15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1830,7 +1830,7 @@
         {
             "nombre": "09:00",
             "valor_salida": 9,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1845,7 +1845,7 @@
         {
             "nombre": "09:30",
             "valor_salida": 9.30,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1860,7 +1860,7 @@
         {
             "nombre": "10:00",
             "valor_salida": 10,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1875,7 +1875,7 @@
         {
             "nombre": "10:20",
             "valor_salida": 10.2,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1890,7 +1890,7 @@
         {
             "nombre": "10:30",
             "valor_salida": 10.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1905,7 +1905,7 @@
         {
             "nombre": "11:00",
             "valor_salida": 11,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1920,7 +1920,7 @@
         {
             "nombre": "11:15",
             "valor_salida": 11.15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1936,7 +1936,7 @@
         {
             "nombre": "11:35",
             "valor_salida": 11.35,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1951,7 +1951,7 @@
         {
             "nombre": "11:45",
             "valor_salida": 11.45,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1966,7 +1966,7 @@
         {
             "nombre": "12:30",
             "valor_salida": 12.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1983,7 +1983,7 @@
         {
             "nombre": "12:30",
             "valor_salida": 12.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -1999,7 +1999,7 @@
          {
             "nombre": "13:00",
             "valor_salida": 13,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2014,7 +2014,7 @@
         {
             "nombre": "13:30",
             "valor_salida": 13.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2029,7 +2029,7 @@
         {
             "nombre": "13:45",
             "valor_salida": 13.45,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2045,7 +2045,7 @@
           {
             "nombre": "14:05",
             "valor_salida": 14.05,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2060,7 +2060,7 @@
         {
             "nombre": "14:30",
             "valor_salida": 14.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2075,7 +2075,7 @@
         {
             "nombre": "15:00",
             "valor_salida": 15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2091,7 +2091,7 @@
         {
             "nombre": "16:00",
             "valor_salida": 16,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2106,7 +2106,7 @@
         {
             "nombre": "17:00",
             "valor_salida": 17,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2121,7 +2121,7 @@
         {
             "nombre": "17:30",
             "valor_salida": 17.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2138,7 +2138,7 @@
         {
             "nombre": "18:00",
             "valor_salida": 18,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2153,7 +2153,7 @@
         {
             "nombre": "18:00",
             "valor_salida": 18,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2168,7 +2168,7 @@
         {
             "nombre": "18:30",
             "valor_salida": 18,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2184,7 +2184,7 @@
         {
             "nombre": "19:30",
             "valor_salida": 19.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2199,7 +2199,7 @@
         {
             "nombre": "20:00",
             "valor_salida": 20,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2214,7 +2214,7 @@
         {
             "nombre": "20:30",
             "valor_salida": 20.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2229,7 +2229,7 @@
         {
             "nombre": "21:00",
             "valor_salida": 21,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2244,7 +2244,7 @@
         {
             "nombre": "21:20",
             "valor_salida": 21.2,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2260,7 +2260,7 @@
         {
             "nombre": "21:30",
             "valor_salida": 21.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2275,7 +2275,7 @@
         {
             "nombre": "22:00",
             "valor_salida": 22,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2290,7 +2290,7 @@
         {
             "nombre": "22:30",
             "valor_salida": 22.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2305,7 +2305,7 @@
         {
             "nombre": "23:30",
             "valor_salida": 23.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -2323,7 +2323,7 @@
         {
             "nombre": "00:30",
             "valor_salida": 24.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -3829,7 +3829,7 @@
         {
             "nombre": "04:40",
             "valor_salida": 4.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -3845,7 +3845,7 @@
         {
             "nombre": "05:45",
             "valor_salida": 5.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -3861,7 +3861,7 @@
         {
             "nombre": "06:10",
             "valor_salida": 6.10,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 10 (luisiana)",
                 "colonia 4 (luisiana)",
@@ -3876,7 +3876,7 @@
         {
             "nombre": "06:50",
             "valor_salida": 6.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -3889,7 +3889,7 @@
         {
             "nombre": "07:20",
             "valor_salida": 7.20,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -3903,7 +3903,7 @@
         {
             "nombre": "07:40",
             "valor_salida": 7.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "finca mayo",
                 "fortín",
@@ -3918,7 +3918,7 @@
         {
             "nombre": "07:50",
             "valor_salida": 7.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -3931,7 +3931,7 @@
         {
             "nombre": "08:45",
             "valor_salida": 8.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -3945,7 +3945,7 @@
         {
             "nombre": "09:20",
             "valor_salida": 9.2,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -3960,7 +3960,7 @@
         {
             "nombre": "10:40",
             "valor_salida": 10.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -3974,7 +3974,7 @@
         {
             "nombre": "11:40",
             "valor_salida": 11.40,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -3988,7 +3988,7 @@
         {
             "nombre": "12:40",
             "valor_salida": 12.4,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "finca mayo",
                 "fortín",
@@ -4003,7 +4003,7 @@
         {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -4018,7 +4018,7 @@
         {
             "nombre": "14:50",
             "valor_salida": 14.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -4032,7 +4032,7 @@
         {
             "nombre": "15:45",
             "valor_salida": 15.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -4045,7 +4045,7 @@
         {
             "nombre": "15:50",
             "valor_salida": 15.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -4058,7 +4058,7 @@
         {
             "nombre": "16:45",
             "valor_salida": 16.45,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
@@ -4071,7 +4071,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (florida)",
                 "fortín",
@@ -4086,7 +4086,7 @@
         {
             "nombre": "17:50",
             "valor_salida": 17.5,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -4100,7 +4100,7 @@
         {
             "nombre": "19:00",
             "valor_salida": 19,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "la marta",
                 "colonia 3 (luisiana)",
@@ -4115,7 +4115,7 @@
         {
             "nombre": "20:55",
             "valor_salida": 20.55,
-            "referencia": "idas florida/alderetes-alternativa",
+            "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "finca mayo",
                 "colonia 10 (luisiana)",
@@ -4131,7 +4131,7 @@
         {
             "nombre": "05:20",
             "valor_salida": 5.2,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4145,7 +4145,7 @@
         {
             "nombre": "06:20",
             "valor_salida": 6.2,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4162,7 +4162,7 @@
         {
             "nombre": "06:25",
             "valor_salida": 6.25,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4176,7 +4176,7 @@
         {
             "nombre": "07:15",
             "valor_salida": 7.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4189,7 +4189,7 @@
         {
             "nombre": "08:00",
             "valor_salida": 8,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4203,7 +4203,7 @@
         {
             "nombre": "08:35",
             "valor_salida": 8.35,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4217,7 +4217,7 @@
         {
             "nombre": "09:00",
             "valor_salida": 9,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4230,7 +4230,7 @@
         {
             "nombre": "09:45",
             "valor_salida": 9.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4244,7 +4244,7 @@
         {
             "nombre": "10:45",
             "valor_salida": 10.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4260,7 +4260,7 @@
         {
             "nombre": "11:40",
             "valor_salida": 11.4,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4275,7 +4275,7 @@
         {
             "nombre": "12:20",
             "valor_salida": 12.2,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4288,7 +4288,7 @@
         {
             "nombre": "13:15",
             "valor_salida": 13.15,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4302,7 +4302,7 @@
         {
             "nombre": "13:30",
             "valor_salida": 13.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "catalinas park",
@@ -4317,7 +4317,7 @@
         {
             "nombre": "14:00",
             "valor_salida": 14,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4332,7 +4332,7 @@
         {
             "nombre": "14:50",
             "valor_salida": 14.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4346,7 +4346,7 @@
         {
             "nombre": "16:00",
             "valor_salida": 16,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4361,7 +4361,7 @@
         {
             "nombre": "16:50",
             "valor_salida": 16.5,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4376,7 +4376,7 @@
         {
             "nombre": "17:45",
             "valor_salida": 17.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4391,7 +4391,7 @@
         {
             "nombre": "18:00",
             "valor_salida": 18,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4406,7 +4406,7 @@
         {
             "nombre": "19:00",
             "valor_salida": 19,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4419,7 +4419,7 @@
         {
             "nombre": "19:45",
             "valor_salida": 19.45,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4434,7 +4434,7 @@
         {
             "nombre": "20:30",
             "valor_salida": 20.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4448,7 +4448,7 @@
         {
             "nombre": "21:00",
             "valor_salida": 21,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -4463,7 +4463,7 @@
         {
             "nombre": "21:30",
             "valor_salida": 21.30,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -4479,7 +4479,7 @@
         {
             "nombre": "22:30",
             "valor_salida": 22.3,
-            "referencia": "vueltas florida/alderetes-alternativa",
+            "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "s. m. de tucumán",
                 "comisaria 11",
@@ -4496,7 +4496,7 @@
         {
             "nombre": "04:50",
             "valor_salida": 4.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4510,7 +4510,7 @@
         {
             "nombre": "05:50",
             "valor_salida": 5.5,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4524,7 +4524,7 @@
         {
             "nombre": "06:25",
             "valor_salida": 6.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "colonia 5 (florida)",
                 "fortín",
@@ -4541,7 +4541,7 @@
         {
             "nombre": "06:25",
             "valor_salida": 6.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4555,7 +4555,7 @@
         {
             "nombre": "07:25",
             "valor_salida": 7.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4569,7 +4569,7 @@
         {
             "nombre": "07:55",
             "valor_salida": 7.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -4584,7 +4584,7 @@
         {
             "nombre": "08:25",
             "valor_salida": 8.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4598,7 +4598,7 @@
         {
             "nombre": "09:05",
             "valor_salida": 9.05,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4612,7 +4612,7 @@
         {
             "nombre": "09:55",
             "valor_salida": 9.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4626,7 +4626,7 @@
         {
             "nombre": "10:25",
             "valor_salida": 10.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4640,7 +4640,7 @@
         {
             "nombre": "10:55",
             "valor_salida": 10.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4654,7 +4654,7 @@
         {
             "nombre": "11:25",
             "valor_salida": 11.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4668,7 +4668,7 @@
         {
             "nombre": "11:55",
             "valor_salida": 11.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4682,7 +4682,7 @@
         {
             "nombre": "12:40",
             "valor_salida": 12.40,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4696,7 +4696,7 @@
         {
             "nombre": "13:25",
             "valor_salida": 13.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4710,7 +4710,7 @@
         {
             "nombre": "13:55",
             "valor_salida": 13.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4724,7 +4724,7 @@
         {
             "nombre": "15:00",
             "valor_salida": 15,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "esquina lastra",
                 "la florida",
@@ -4738,7 +4738,7 @@
         {
             "nombre": "15:55",
             "valor_salida": 15.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -4753,7 +4753,7 @@
         {
             "nombre": "16:55",
             "valor_salida": 16.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4767,7 +4767,7 @@
         {
             "nombre": "17:55",
             "valor_salida": 17.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4781,7 +4781,7 @@
         {
             "nombre": "18:55",
             "valor_salida": 18.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4795,7 +4795,7 @@
         {
             "nombre": "19:25",
             "valor_salida": 19.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
                 "esquina lastra",
@@ -4810,7 +4810,7 @@
         {
             "nombre": "20:25",
             "valor_salida": 20.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4824,7 +4824,7 @@
         {
             "nombre": "20:55",
             "valor_salida": 20.55,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4838,7 +4838,7 @@
         {
             "nombre": "21:25",
             "valor_salida": 21.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4852,7 +4852,7 @@
         {
             "nombre": "22:25",
             "valor_salida": 22.25,
-            "referencia": "idas florida/posse",
+            "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
                 "la florida",
@@ -4867,7 +4867,7 @@
         {
             "nombre": "00:30",
             "valor_salida": 0.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4882,7 +4882,7 @@
         {
             "nombre": "06:00",
             "valor_salida": 6,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4897,7 +4897,7 @@
         {
             "nombre": "06:40",
             "valor_salida": 6.1,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4912,7 +4912,7 @@
         {
             "nombre": "07:00",
             "valor_salida": 7,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4928,7 +4928,7 @@
         {
             "nombre": "07:30",
             "valor_salida": 7.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4943,7 +4943,7 @@
         {
             "nombre": "08:15",
             "valor_salida": 8.15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4958,7 +4958,7 @@
         {
             "nombre": "09:00",
             "valor_salida": 9,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4973,7 +4973,7 @@
         {
             "nombre": "09:30",
             "valor_salida": 9.30,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -4988,7 +4988,7 @@
         {
             "nombre": "10:00",
             "valor_salida": 10,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5003,7 +5003,7 @@
         {
             "nombre": "10:30",
             "valor_salida": 10.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5018,7 +5018,7 @@
         {
             "nombre": "11:00",
             "valor_salida": 11,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5033,7 +5033,7 @@
         {
             "nombre": "11:45",
             "valor_salida": 11.45,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5048,7 +5048,7 @@
         {
             "nombre": "12:30",
             "valor_salida": 12.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5063,7 +5063,7 @@
         {
             "nombre": "13:00",
             "valor_salida": 13,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5078,7 +5078,7 @@
         {
             "nombre": "13:45",
             "valor_salida": 13.45,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5094,7 +5094,7 @@
         {
             "nombre": "14:15",
             "valor_salida": 14.15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5109,7 +5109,7 @@
         {
             "nombre": "15:00",
             "valor_salida": 15,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5125,7 +5125,7 @@
         {
             "nombre": "15:30",
             "valor_salida": 15.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5141,7 +5141,7 @@
         {
             "nombre": "16:00",
             "valor_salida": 16,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5156,7 +5156,7 @@
         {
             "nombre": "17:00",
             "valor_salida": 17,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5171,7 +5171,7 @@
         {
             "nombre": "18:00",
             "valor_salida": 18,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5186,7 +5186,7 @@
         {
             "nombre": "18:30",
             "valor_salida": 18.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5202,7 +5202,7 @@
         {
             "nombre": "19:30",
             "valor_salida": 19.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5217,7 +5217,7 @@
         {
             "nombre": "20:00",
             "valor_salida": 20,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5232,7 +5232,7 @@
         {
             "nombre": "20:30",
             "valor_salida": 20.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5247,7 +5247,7 @@
         {
             "nombre": "21:00",
             "valor_salida": 21,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5261,7 +5261,7 @@
         {
             "nombre": "21:30",
             "valor_salida": 21.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5276,7 +5276,7 @@
         {
             "nombre": "22:00",
             "valor_salida": 22,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5291,7 +5291,7 @@
         {
             "nombre": "22:30",
             "valor_salida": 22.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -5306,7 +5306,7 @@
         {
             "nombre": "23:30",
             "valor_salida": 23.3,
-            "referencia": "vueltas florida/posse",
+            "referencia": "vueltas florida x posse",
             "recorrido": [
                 "s. m. de tucumán",
                 "banda del río salí",
@@ -6543,7 +6543,7 @@
                 {
                     "nombre": "07:40",
                     "valor_salida": 7.4,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "finca mayo",
                         "fortín",
@@ -6558,7 +6558,7 @@
                 {
                     "nombre": "10:30",
                     "valor_salida": 10.30,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "Colonia 2 (florida)",
                         "fortín",
@@ -6573,7 +6573,7 @@
                 {
                     "nombre": "12:40",
                     "valor_salida": 12.4,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "finca mayo",
                         "fortín",
@@ -6588,7 +6588,7 @@
                 {
                     "nombre": "14:45",
                     "valor_salida": 14.45,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "colonia 4 (luisiana)",
                         "b° la cancha",
@@ -6602,7 +6602,7 @@
                 {
                     "nombre": "15:50",
                     "valor_salida": 15.5,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "colonia 4 (luisiana)",
                         "b° la cancha",
@@ -6616,7 +6616,7 @@
                 {
                     "nombre": "16:50",
                     "valor_salida": 16.5,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "colonia 4 (florida)",
                         "fortín",
@@ -6631,7 +6631,7 @@
                 {
                     "nombre": "17:50",
                     "valor_salida": 17.5,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "b° la cancha",
                         "la florida",
@@ -6644,7 +6644,7 @@
                 {
                     "nombre": "19:00",
                     "valor_salida": 19,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "finca mayo",
                         "colonia 3 (luisiana)",
@@ -6659,7 +6659,7 @@
                 {
                     "nombre": "20:55",
                     "valor_salida": 20.55,
-                    "referencia": "idas florida/alderetes-alternativa",
+                    "referencia": "idas florida x ald./altern",
                     "recorrido": [
                         "finca mayo",
                         "colonia 10 (luisiana)",
@@ -6675,7 +6675,7 @@
                 {
                     "nombre": "06:40",
                     "valor_salida": 6.40,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6688,7 +6688,7 @@
                 {
                     "nombre": "09:45",
                     "valor_salida": 9.45,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6703,7 +6703,7 @@
                 {
                     "nombre": "11:40",
                     "valor_salida": 11.40,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6715,7 +6715,7 @@
                 {
                     "nombre": "14:00",
                     "valor_salida": 14,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6728,7 +6728,7 @@
                 {
                     "nombre": "14:50",
                     "valor_salida": 14.5,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6741,7 +6741,7 @@
                 {
                     "nombre": "16:00",
                     "valor_salida": 16,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6757,7 +6757,7 @@
                 {
                     "nombre": "17:45",
                     "valor_salida": 17.45,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6771,7 +6771,7 @@
                 {
                     "nombre": "19:45",
                     "valor_salida": 19.45,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6784,7 +6784,7 @@
                 {
                     "nombre": "21:00",
                     "valor_salida": 21,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -6799,7 +6799,7 @@
                 {
                     "nombre": "22:30",
                     "valor_salida": 22.3,
-                    "referencia": "vueltas florida/alderetes-alternativa",
+                    "referencia": "vueltas florida x ald./altern",
                     "recorrido": [
                         "s. m. de tucumán",
                         "comisaria 11",
@@ -6817,7 +6817,7 @@
             {
                 "nombre": "04:50",
                 "valor_salida": 4.5,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6831,7 +6831,7 @@
             {
                 "nombre": "05:55",
                 "valor_salida": 5.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6845,7 +6845,7 @@
             {
                 "nombre": "06:55",
                 "valor_salida": 6.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "fortín",
                     "esquina lastra",
@@ -6860,7 +6860,7 @@
             {
                 "nombre": "07:55",
                 "valor_salida": 7.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "fortín",
                     "esquina lastra",
@@ -6875,7 +6875,7 @@
             {
                 "nombre": "08:55",
                 "valor_salida": 8.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "fortín",
                     "esquina lastra",
@@ -6890,7 +6890,7 @@
             {
                 "nombre": "09:55",
                 "valor_salida": 9.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6904,7 +6904,7 @@
             {
                 "nombre": "10:55",
                 "valor_salida": 10.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6918,7 +6918,7 @@
             {
                 "nombre": "11:55",
                 "valor_salida": 11.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6932,7 +6932,7 @@
             {
                 "nombre": "13:00",
                 "valor_salida": 13,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "esquina lastra",
                     "la florida",
@@ -6946,7 +6946,7 @@
             {
                 "nombre": "13:55",
                 "valor_salida": 13.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -6960,7 +6960,7 @@
             {
                 "nombre": "15:00",
                 "valor_salida": 15,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "esquina lastra",
                     "la florida",
@@ -6974,7 +6974,7 @@
             {
                 "nombre": "15:55",
                 "valor_salida": 15.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "fortín",
                     "esquina lastra",
@@ -6989,7 +6989,7 @@
             {
                 "nombre": "16:55",
                 "valor_salida": 16.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7003,7 +7003,7 @@
             {
                 "nombre": "17:55",
                 "valor_salida": 17.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7017,7 +7017,7 @@
             {
                 "nombre": "18:55",
                 "valor_salida": 18.55,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7031,7 +7031,7 @@
             {
                 "nombre": "19:25",
                 "valor_salida": 19.25,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "fortín",
                     "esquina lastra",
@@ -7046,7 +7046,7 @@
             {
                 "nombre": "20:25",
                 "valor_salida": 20.25,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7060,7 +7060,7 @@
             {
                 "nombre": "21:00",
                 "valor_salida": 21,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7074,7 +7074,7 @@
             {
                 "nombre": "21:25",
                 "valor_salida": 21.25,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7088,7 +7088,7 @@
             {
                 "nombre": "22:25",
                 "valor_salida": 22.25,
-                "referencia": "idas florida/posse",
+                "referencia": "idas florida x posse",
                 "recorrido": [
                     "b° la cancha",
                     "la florida",
@@ -7104,7 +7104,7 @@
                 {
                     "nombre": "06:00",
                     "valor_salida": 6,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7120,7 +7120,7 @@
                 {
                     "nombre": "07:00",
                     "valor_salida": 7,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7136,7 +7136,7 @@
                 {
                     "nombre": "08:00",
                     "valor_salida": 8,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7152,7 +7152,7 @@
                 {
                     "nombre": "09:00",
                     "valor_salida": 9,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7167,7 +7167,7 @@
                 {
                     "nombre": "10:00",
                     "valor_salida": 10,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7182,7 +7182,7 @@
                 {
                     "nombre": "11:00",
                     "valor_salida": 11,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7197,7 +7197,7 @@
                 {
                     "nombre": "12:00",
                     "valor_salida": 12,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7212,7 +7212,7 @@
                 {
                     "nombre": "13:00",
                     "valor_salida": 13,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7227,7 +7227,7 @@
                 {
                     "nombre": "14:15",
                     "valor_salida": 14.15,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7242,7 +7242,7 @@
                 {
                     "nombre": "15:00",
                     "valor_salida": 15,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7258,7 +7258,7 @@
                 {
                     "nombre": "16:00",
                     "valor_salida": 16,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7273,7 +7273,7 @@
                 {
                     "nombre": "17:00",
                     "valor_salida": 17,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7288,7 +7288,7 @@
                 {
                     "nombre": "18:00",
                     "valor_salida": 18,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7303,7 +7303,7 @@
                 {
                     "nombre": "18:30",
                     "valor_salida": 18.3,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7319,7 +7319,7 @@
                 {
                     "nombre": "19:30",
                     "valor_salida": 19.3,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7334,7 +7334,7 @@
                 {
                     "nombre": "20:00",
                     "valor_salida": 20,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7349,7 +7349,7 @@
                 {
                     "nombre": "20:30",
                     "valor_salida": 20.30,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7364,7 +7364,7 @@
                 {
                     "nombre": "21:30",
                     "valor_salida": 21.3,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7379,7 +7379,7 @@
                 {
                     "nombre": "22:00",
                     "valor_salida": 22,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7395,7 +7395,7 @@
                 {
                     "nombre": "22:30",
                     "valor_salida": 22.3,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
@@ -7410,7 +7410,7 @@
                 {
                     "nombre": "23:30",
                     "valor_salida": 23.3,
-                    "referencia": "vueltas florida/posse",
+                    "referencia": "vueltas florida x posse",
                     "recorrido": [
                         "s. m. de tucumán",
                         "banda del río salí",
