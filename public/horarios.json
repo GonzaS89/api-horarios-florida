@@ -9,7 +9,6 @@
                 "esquina lastra",
                 "fonda",
                 "b° la cancha",
-                
                 "el talar",
                 "alderetes",
                 "banda del río salí",
@@ -25,7 +24,6 @@
                 "esquina lastra",
                 "fonda",
                 "b° la cancha",
-                
                 "el talar",
                 "alternativa",
                 "terminal"
@@ -120,9 +118,21 @@
             "recorrido": [
                 "colonia 4 (luisiana)",
                 "b° la cancha",
-                
                 "el talar",
                 "alternativa",
+                "terminal"
+            ]
+        },
+        {
+            "nombre": "07:20",
+            "valor_salida": 7.2,
+            "referencia": "idas florida x ald./altern",
+            "recorrido": [
+                "fortín",
+                "esquina lastra",
+                "el talar",
+                "alderetes",
+                "banda del río salí",
                 "terminal"
             ]
         },
@@ -142,8 +152,8 @@
             ]
         },
         {
-            "nombre": "07:50",
-            "valor_salida": 7.50,
+            "nombre": "07:45",
+            "valor_salida": 7.45,
             "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
@@ -196,8 +206,21 @@
             ]
         },
         {
-            "nombre": "09:55",
-            "valor_salida": 9.55,
+            "nombre": "09:30",
+            "valor_salida": 9.30,
+            "referencia": "idas florida x ald./altern",
+            "recorrido": [
+                "fortín",
+                "esquina lastra",
+                "el talar",
+                "alderetes",
+                "banda del río salí",
+                "terminal"
+            ]
+        },
+        {
+            "nombre": "09:50",
+            "valor_salida": 9.50,
             "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "colonia 4 (luisiana)",
@@ -252,8 +275,8 @@
             ]
         },
         {
-            "nombre": "12:35",
-            "valor_salida": 12.35,
+            "nombre": "12:40",
+            "valor_salida": 12.4,
             "referencia": "idas florida x ald./altern",
             "recorrido": [
                 "b° la cancha",
@@ -330,18 +353,7 @@
                 "terminal"
             ]
         },
-        {
-            "nombre": "15:40",
-            "valor_salida": 15.4,
-            "referencia": "idas florida x ald./altern",
-            "recorrido": [
-                "b° la cancha",
-                
-                "el talar",
-                "alternativa",
-                "terminal"
-            ]
-        },
+      
         {
             "nombre": "15:47",
             "valor_salida": 15.47,
@@ -370,16 +382,16 @@
             ]
         },
         {
-            "nombre": "16:40",
-            "valor_salida": 16.4,
+            "nombre": "16:20",
+            "valor_salida": 16.2,
             "referencia": "idas florida x ald./altern",
             "recorrido": [
+                "la marta",
+                "finca mayo",
                 "colonia 4 (luisiana)",
                 "b° la cancha",
-                
                 "el talar",
-                "alderetes",
-                "autopista",
+                "alternativa",
                 "terminal"
             ]
         },
@@ -395,19 +407,6 @@
                 "el talar",
                 "alderetes",
                 "banda del río salí",
-                "terminal"
-            ]
-        },
-        {
-            "nombre": "16:45",
-            "valor_salida": 16.45,
-            "referencia": "idas florida x ald./altern",
-            "recorrido": [
-                "colonia 4 (luisiana)",
-                "b° la cancha",
-                
-                "el talar",
-                "alternativa",
                 "terminal"
             ]
         },
@@ -436,6 +435,18 @@
                 "el talar",
                 "alderetes",
                 "banda del río salí",
+                "terminal"
+            ]
+        },
+        {
+            "nombre": "18:15",
+            "valor_salida": 18.15,
+            "referencia": "idas florida x ald./altern",
+            "recorrido": [
+                "colonia 4 (luisiana)",
+               "b° la cancha",
+                "el talar",
+             "alternativa",
                 "terminal"
             ]
         },
@@ -484,8 +495,8 @@
             ]
         },
         {
-            "nombre": "05:25",
-            "valor_salida": 5.25,
+            "nombre": "05:20",
+            "valor_salida": 5.2,
             "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "terminal",
@@ -645,8 +656,8 @@
             ]
         },
         {
-            "nombre": "12:45",
-            "valor_salida": 12.45,
+            "nombre": "12:40",
+            "valor_salida": 12.4,
             "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "terminal",
@@ -819,6 +830,21 @@
             "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "terminal",
+                "alternativa",
+                "el talar",
+                
+                "b° la cancha",
+               "colonia 4 (luisiana)"
+              
+            ]
+        },
+       
+        {
+            "nombre": "17:45",
+            "valor_salida": 17.45,
+            "referencia": "vueltas florida x ald./altern",
+            "recorrido": [
+                "terminal",
                 "banda del río salí",
                 "alderetes",
                 "el talar",
@@ -842,6 +868,19 @@
                 "esquina lastra",
                 "b° la cancha",
      
+                "colonia 4 (luisiana)"
+            ]
+        },
+        {
+            "nombre": "18:55",
+            "valor_salida": 18.55,
+            "referencia": "vueltas florida x ald./altern",
+            "recorrido": [
+                "terminal",
+                "comisaria 11",
+                "alternativa",
+                "el talar",
+                "b° la cancha",
                 "colonia 4 (luisiana)"
             ]
         },
@@ -874,8 +913,8 @@
             ]
         },
         {
-            "nombre": "20:30",
-            "valor_salida": 20.3,
+            "nombre": "20:20",
+            "valor_salida": 20.2,
             "referencia": "vueltas florida x ald./altern",
             "recorrido": [
                 "terminal",
@@ -1517,8 +1556,8 @@
             ]
         },
         {
-            "nombre": "13:25",
-            "valor_salida": 13.25,
+            "nombre": "13:20",
+            "valor_salida": 13.2,
             "referencia": "idas florida x posse",
             "recorrido": [
                 "fortín",
@@ -1649,8 +1688,8 @@
             ]
         },
         {
-            "nombre": "19:55",
-            "valor_salida": 19.55,
+            "nombre": "19:50",
+            "valor_salida": 19.5,
             "referencia": "idas florida x posse",
             "recorrido": [
                 "colonia 4 (luisiana)",
@@ -1871,21 +1910,7 @@
                 "b° la cancha"
             ]
         },
-        {
-            "nombre": "10:20",
-            "valor_salida": 10.2,
-            "referencia": "vueltas florida x posse",
-            "recorrido": [
-                "terminal",
-                "banda del río salí",
-                "cevil pozo",
-                "esquina llona",
-                "w. posse",
-                "el paraíso",
-                
-                "esquina longo"
-            ]
-        },
+    
         {
             "nombre": "10:30",
             "valor_salida": 10.3,
@@ -2117,38 +2142,7 @@
                 "b° la cancha"
             ]
         },
-        {
-            "nombre": "17:30",
-            "valor_salida": 17.3,
-            "referencia": "vueltas florida x posse",
-            "recorrido": [
-                "terminal",
-                "banda del río salí",
-                "cevil pozo",
-                "esquina llona",
-                "w. posse",
-                "el paraíso",
-                
-                "esquina lastra",
-                "fortín",
-                "b° la cancha"
-            ]
-        },
-        {
-            "nombre": "18:00",
-            "valor_salida": 18,
-            "referencia": "vueltas florida x posse",
-            "recorrido": [
-                "terminal",
-                "banda del río salí",
-                "cevil pozo",
-                "esquina llona",
-                "w. posse",
-                "el paraíso",
-                
-                "b° la cancha","colonia 4 (luisiana)"
-            ]
-        },
+ 
         {
             "nombre": "18:00",
             "valor_salida": 18,
@@ -2178,6 +2172,20 @@
                 
                 "esquina lastra",
                 "fortín"
+            ]
+        },
+        {
+            "nombre": "19:10",
+            "valor_salida": 19.1,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "terminal",
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "el paraíso",
+                "b° la cancha"
             ]
         },
         {
@@ -2235,22 +2243,6 @@
                 "cevil pozo",
                 "esquina llona",
                 "w. posse",
-                "el paraíso",
-                
-                "b° la cancha"
-            ]
-        },
-        {
-            "nombre": "21:20",
-            "valor_salida": 21.2,
-            "referencia": "vueltas florida x posse",
-            "recorrido": [
-                "terminal",
-                "banda del río salí",
-                "cevil pozo",
-                "esquina llona",
-                "w. posse",
-                "bosque",
                 "el paraíso",
                 
                 "b° la cancha"
