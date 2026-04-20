@@ -1106,6 +1106,20 @@
             "recorrido": [
                 "dispensario",
                 "w. posse",
+                "fila de la orilla",
+                
+                "cevil pozo",
+                "banda del río salí",
+                "terminal"
+            ]
+        },
+        {
+            "nombre": "06:05",
+            "valor_salida": 6.05,
+            "referencia": "idas posse",
+            "recorrido": [
+                "dispensario",
+                "w. posse",
                 "fila del medio",
                 
                 "cevil pozo",
@@ -1122,19 +1136,6 @@
                 "bosque",
                 "w. posse",
                 "fila del medio",
-                "cevil pozo","banda del río salí",
-                "terminal"
-            ]
-        },
-        {
-            "nombre": "06:35",
-            "valor_salida": 6.35,
-            "referencia": "idas posse",
-            "recorrido": [
-                "dispensario",
-                "w. posse",
-                "fila de la orilla",
-                "esquina llona",
                 "cevil pozo","banda del río salí",
                 "terminal"
             ]
