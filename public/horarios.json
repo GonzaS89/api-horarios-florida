@@ -1428,7 +1428,6 @@
             "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
-                
                 "el paraíso",
                 "w. posse",
                 "esquina llona",
@@ -1479,8 +1478,8 @@
             ]
         },
         {
-            "nombre": "06:50",
-            "valor_salida": 6.5,
+            "nombre": "07:00",
+            "valor_salida": 7,
             "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
@@ -1639,10 +1638,21 @@
             "valor_salida": 13.2,
             "referencia": "idas florida x posse",
             "recorrido": [
+                "b° la cancha",
+                "el paraíso",
+                "w. posse",
+                "esquina llona",
+                "cevil pozo","banda del río salí",
+                "terminal"
+            ]
+        },
+        {
+            "nombre": "13:25",
+            "valor_salida": 13.25,
+            "referencia": "idas florida x posse",
+            "recorrido": [
                 "fortín",
                 "esquina lastra",
-                "b° la cancha",
-                
                 "el paraíso",
                 "w. posse",
                 "esquina llona",
@@ -1653,20 +1663,6 @@
         {
             "nombre": "13:50",
             "valor_salida": 13.5,
-            "referencia": "idas florida x posse",
-            "recorrido": [
-                "b° la cancha",
-                
-                "el paraíso",
-                "w. posse",
-                "esquina llona",
-                "cevil pozo","banda del río salí",
-                "terminal"
-            ]
-        },
-        {
-            "nombre": "14:50",
-            "valor_salida": 14.5,
             "referencia": "idas florida x posse",
             "recorrido": [
                 "b° la cancha",
@@ -1722,35 +1718,7 @@
                 "terminal"
             ]
         },
-        {
-            "nombre": "17:50",
-            "valor_salida": 17.5,
-            "referencia": "idas florida x posse",
-            "recorrido": [
-                "colegio croacia",
-                
-                "el paraíso",
-                "w. posse",
-                "esquina llona",
-                "cevil pozo","banda del río salí",
-                "terminal"
-            ]
-        },
-        {
-            "nombre": "18:50",
-            "valor_salida": 18.5,
-            "referencia": "idas florida x posse",
-            "recorrido": [
-                "fortín",
-                "esquina lastra",
-                
-                "el paraíso",
-                "w. posse",
-                "esquina llona",
-                "cevil pozo","banda del río salí",
-                "terminal"
-            ]
-        },
+        
         {
             "nombre": "19:30",
             "valor_salida": 19.3,
@@ -1767,8 +1735,8 @@
             ]
         },
         {
-            "nombre": "19:50",
-            "valor_salida": 19.5,
+            "nombre": "19:55",
+            "valor_salida": 19.55,
             "referencia": "idas florida x posse",
             "recorrido": [
                 "colonia 4 (luisiana)",
@@ -2005,6 +1973,20 @@
                 "b° la cancha"
             ]
         },
+        
+        {
+            "nombre": "10:30",
+            "valor_salida": 10.3,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "terminal",
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "esquina longo"
+            ]
+        },
         {
             "nombre": "11:00",
             "valor_salida": 11,
@@ -2067,6 +2049,21 @@
             ]
         },
         {
+            "nombre": "12:20",
+            "valor_salida": 12.2,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "terminal",
+                "banda del río salí",
+                "cevil pozo",
+                "fila del medio",
+                "w. posse",
+                "el paraíso",
+                "b° la cancha"
+
+            ]
+        },
+        {
             "nombre": "12:30",
             "valor_salida": 12.3,
             "referencia": "vueltas florida x posse",
@@ -2083,9 +2080,9 @@
 
             ]
         },
-        {
-            "nombre": "12:30",
-            "valor_salida": 12.3,
+         {
+            "nombre": "13:00",
+            "valor_salida": 13,
             "referencia": "vueltas florida x posse",
             "recorrido": [
                 "terminal",
@@ -2096,10 +2093,9 @@
                 "el paraíso",
                 
                 "b° la cancha"
-
             ]
         },
-         {
+        {
             "nombre": "13:00",
             "valor_salida": 13,
             "referencia": "vueltas florida x posse",
@@ -2221,6 +2217,22 @@
                 "b° la cancha"
             ]
         },
+        {
+            "nombre": "17:30",
+            "valor_salida": 17.3,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "terminal",
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "el paraíso",
+                
+                "esquina lastra",
+                "fortín"
+            ]
+        },
  
         {
             "nombre": "18:00",
@@ -2239,7 +2251,7 @@
         },
         {
             "nombre": "18:30",
-            "valor_salida": 18,
+            "valor_salida": 18.3,
             "referencia": "vueltas florida x posse",
             "recorrido": [
                 "terminal",
@@ -2254,6 +2266,21 @@
             ]
         },
         {
+            "nombre": "18:40",
+            "valor_salida": 18.4,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                 "chango más",   
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "el paraíso",
+                
+                "b° la cancha"
+            ]
+        },
+        {
             "nombre": "19:10",
             "valor_salida": 19.1,
             "referencia": "vueltas florida x posse",
@@ -2264,12 +2291,43 @@
                 "esquina llona",
                 "w. posse",
                 "el paraíso",
-                "b° la cancha"
+                "b° la cancha",
+                "colonia 4 (luisiana)"
             ]
         },
         {
             "nombre": "19:30",
             "valor_salida": 19.3,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "terminal",
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "el paraíso",
+                
+                "b° la cancha"
+            ]
+        },
+        {
+            "nombre": "19:40",
+            "valor_salida": 19.4,
+            "referencia": "vueltas florida x posse",
+            "recorrido": [
+                "chango más",
+                "banda del río salí",
+                "cevil pozo",
+                "esquina llona",
+                "w. posse",
+                "el paraíso",
+                
+                "b° la cancha"
+            ]
+        },
+        {
+            "nombre": "20:00",
+            "valor_salida": 20,
             "referencia": "vueltas florida x posse",
             "recorrido": [
                 "terminal",
